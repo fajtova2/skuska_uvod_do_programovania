@@ -1,0 +1,1 @@
+# skuska_uvod_do_programovania
